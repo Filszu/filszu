@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Filip, and I've been crazy about programming since I was a kid<br>🔭I'm currently working on a learning support tool 🤓<br>🌱I'm currently learning netxJS13, <br>👀I'm interested in creating web and mobile apps<br>👻other hobbies: 🥋martial arts🥊, 📚reading📔 ✍writing✏<br>💬Feel free to contact me via e-mail
+Hi, I'm Filip, and I've been crazy about programming since I was a kid<br>🔭I'm currently working on a learning support tool 🤓<br>🌱I'm currently learning nextJS13, <br>👀I'm interested in creating web and mobile apps<br>👻other hobbies: 🥋martial arts🥊, 📚reading📔 ✍writing✏<br>💬Feel free to contact me via e-mail
 
 
 ## 🌐 Socials:
@@ -25,6 +25,4 @@ Hi, I'm Filip, and I've been crazy about programming since I was a kid<br>🔭I'
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/filszu) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/filszu) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
