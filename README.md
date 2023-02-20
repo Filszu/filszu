@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Filip, and I've been crazy about programming since I was a kid<br>🔭I'm currently working on a learning support tool 🤓<br>🌱I'm currently learning reactJS<br>👀I'm interested in creating web and mobile apps<br>👻other hobbies: 🥋martial arts🥊, 📚reading📔 ✍writing✏<br>💬Feel free to contact me via e-mail
+Hi, I'm Filip, and I've been crazy about programming since I was a kid<br>🔭I'm currently working on a learning support tool 🤓<br>🌱I'm currently learning netxJS13, <br>👀I'm interested in creating web and mobile apps<br>👻other hobbies: 🥋martial arts🥊, 📚reading📔 ✍writing✏<br>💬Feel free to contact me via e-mail
 
 
 ## 🌐 Socials:
@@ -19,9 +19,6 @@ Hi, I'm Filip, and I've been crazy about programming since I was a kid<br>🔭I'
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Filszu&icon=0&color=0)](https://visitcount.itsvg.in)
