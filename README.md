@@ -9,6 +9,7 @@ Hi, I'm Filip, and I've been crazy about programming since I was a kid
 💬 Feel free to contact me via e-mail  
 
 👉 [Check out my portfolio](https://filszu.vercel.app/) 👈
+
 ![Portfolio Preview](public/images/og-image.png)
 
 ## 🌐 Socials:
