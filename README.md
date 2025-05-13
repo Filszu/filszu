@@ -10,7 +10,7 @@ Hi, I'm Filip, and I've been crazy about programming since I was a kid
 
 👉 [Check out my portfolio](https://filszu.vercel.app/) 👈
 
-![Portfolio Preview](public/images/og-image.png)
+![Portfolio Preview](https://filszu.vercel.app/images/og-image.png)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Filipp#2385)
